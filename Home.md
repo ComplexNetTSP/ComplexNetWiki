@@ -7,3 +7,7 @@
     0. [[Graphs Visualisation|2.1.1.-Graphs-Visualisation]]
     0. [[Graphs Library|2.1.2.-Graphs-Library]]
     0. [[Graphs Database|2.1.3.-Graphs-Database]]
+
+### [[☰|3.-Computing.md]] 3. Computing.md
+0. [[Cloud Computing|3.1.-Cloud-Computing]]
+    0. [[StratusLab|3.1.1.-StratusLab]]
