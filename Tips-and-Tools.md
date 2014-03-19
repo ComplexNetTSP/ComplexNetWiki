@@ -32,6 +32,7 @@
   * [Git Reference](http://gitref.org/) (The most simple to understand)
   * [Git Immersion](http://gitimmersion.com/) (The nicer)
   * [Pro Git](http://progit.org/book/) (The reference)
+
 #### Tools
   * [GitLab.org](http://gitlab.org/)
 
