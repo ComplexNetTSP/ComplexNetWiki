@@ -1,12 +1,9 @@
-
-##### Tranfert files
-- [WeTransfer](www.wetransfer.com)
-
-##### Open Science Tools
+# Open Science Tools
 * [List of OpenScience Tools](https://docs.google.com/a/luxbulb.org/spreadsheet/ccc?key=0AurNeI-ueiEEdFdwTWNnMDA0OEliNHM0WnNBQVd4eEE#gid=0)
 * [OpenScienceFramework](https://openscienceframework.org/)
 * [Scigit](https://www.scigit.com/)
 
+# Writting
 ##### Web
 - [CSS template Bootstrap](http://twitter.github.io/bootstrap/)
 - [OpenFramework](https://openframework.stanford.edu/)
@@ -22,6 +19,10 @@
 - [Creating high-quality graphics in MatplotLib](https://gist.github.com/vgauthier/9b32f272788e1ab873d2#file-gistfile1-py)
    - [IPython notebook of the code](http://nbviewer.ipython.org/5849687)
 
+### Writing tips
+* [Writing Tips from Andrzej Duda](http://duda.imag.fr/writing.pdf)
+
+# Tools 
 ### GIT
 ##### Tutorials 
   * [Git Reference](http://gitref.org/) (The most simple to understand)
@@ -32,12 +33,6 @@
 
 ##### Git repository of the Research group 
 * [https://github.com/organizations/ComplexSystemTelecomSudParis](https://github.com/organizations/ComplexSystemTelecomSudParis)
-
-### MOOC
-* [Edx](http://www.edx.org)
-* [Udacity](https://www.udacity.com/)
-* [Coursera](https://www.coursera.org/)
-* [SFI Mooc](http://www.complexityexplorer.org/)
 
 ### Writing tips
 * [Writing Tips from Andrzej Duda](http://duda.imag.fr/writing.pdf)
