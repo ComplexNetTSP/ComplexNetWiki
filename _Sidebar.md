@@ -1,3 +1,3 @@
-### 1. General
+1. ### General
 
-* [Tips and Tools](https://github.com/ComplexNetTSP/ComplexNetWiki/wiki/Tips-and-Tools)
+1.1. [Tips and Tools](https://github.com/ComplexNetTSP/ComplexNetWiki/wiki/Tips-and-Tools)
