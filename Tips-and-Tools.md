@@ -21,6 +21,7 @@
 
 ### Writing tips
 * [Writing Tips from Andrzej Duda](http://duda.imag.fr/writing.pdf)
+* [The Science of Scientific Writing](https://www.americanscientist.org/issues/issue.aspx?id=877&y=0&no&content=true&page=4&css=print)
 
 ## Tools 
 ### GIT
