@@ -11,4 +11,3 @@
     0. [[General Tips|3.3.1.-General-Tips]]
 0. [[Other|3.4.-Other]]
     0. [[Salt|3.4.1.-Salt]]
-        0. [[Salt|3.4.1.-Salt]]
