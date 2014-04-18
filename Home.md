@@ -18,3 +18,5 @@
 0. [[Scientific Computing|3.2.-Scientific-Computing]]
     0. [[Scientific Computing With Python|3.2.1-Scientific-Computing-With-Python]]
     0. [[Parallel Processing With Python|3.2.2-Parallel-Processing-With-Python]]
+0. [[Python|3.3.-Python]]
+    0. [[General Tips|3.3.1.-General-Tips]] ⚑
