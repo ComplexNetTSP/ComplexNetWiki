@@ -2,7 +2,7 @@
 ### [[☰|1.-General.md]] 1. General.md
 0. [[Tips And Tools|1.1.-Tips-And-Tools]]
 0. [[Ploting|1.2.-Ploting]]
-0. [[Statistics|1.3.-Statistics]]
+0. [[Maths Reminder And Notes|1.3.-Maths-Reminder-And-Notes]]
 
 ### [[☰|2.-Complex-Networks.md]] 2. Complex-Networks.md
 0. [[Graphs|2.1.-Graphs]]
