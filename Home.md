@@ -13,6 +13,7 @@
         0. [[GraphX|2.1.3.2.-GraphX]]
 0. [[Datasets|2.2.-Datasets]]
     0. [[Kaggle|2.2.1-Kaggle]]
+    0. [[Dataset Repository|2.2.2-Dataset-Repository]]
 
 ### [[☰|3.-Computing.md]] 3. Computing.md
 0. [[Cloud Computing|3.1.-Cloud-Computing]]
