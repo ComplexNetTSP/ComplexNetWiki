@@ -3,7 +3,6 @@
 0. [[Tips And Tools|1.1.-Tips-And-Tools]]
 0. [[Ploting|1.2.-Ploting]]
 0. [[Maths Reminder And Notes|1.3.-Maths-Reminder-And-Notes]]
-0. [[Links|1.4.-Links]]
 
 ### [[☰|2.-Complex-Networks.md]] 2. Complex-Networks.md
 0. [[Graphs|2.1.-Graphs]]
@@ -12,6 +11,8 @@
     0. [[Large Graph Processing|2.1.3.-Large-Graph-Processing]]
         0. [[Large Graph and Graph Database|2.1.3.1.-Large-Graph-and-Graph-Database]]
         0. [[GraphX|2.1.3.2.-GraphX]]
+        0. [[Graphlab|2.1.3.3.-Graphlab]] ⚑
+        0. [[Snap|2.1.3.3.-Snap]] ⚑
 0. [[Datasets|2.2.-Datasets]]
     0. [[Kaggle|2.2.1-Kaggle]]
     0. [[Dataset Repository|2.2.2-Dataset-Repository]]
