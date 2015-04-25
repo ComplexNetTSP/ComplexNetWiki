@@ -31,3 +31,6 @@
     0. [[Data Mining|3.3.2.-Data-Mining]]
 0. [[Other|3.4.-Other]]
     0. [[Salt|3.4.1.-Salt]]
+
+### [[☰|4.-Python.md]] 4. Python.md
+0. [[Python Library|4.1.-Python-Library]] ⚑
