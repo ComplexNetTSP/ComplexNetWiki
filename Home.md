@@ -17,7 +17,7 @@
     0. [[Graphs Visualisation|2.1.4.-Graphs-Visualisation]]
 0. [[Datasets|2.2.-Datasets]]
     0. [[Kaggle|2.2.1-Kaggle]]
-    0. [[Dataset Repository|2.2.2-Dataset-Repository]]
+    0. [[Networks datasets|2.2.2-Networks-datasets]]
 
 ### [[☰|3.-Computing.md]] 3. Computing.md
 0. [[Cloud Computing|3.1.-Cloud-Computing]]
@@ -33,4 +33,4 @@
     0. [[Salt|3.4.1.-Salt]]
 
 ### [[☰|4.-Python.md]] 4. Python.md
-0. [[Python Library|4.1.-Python-Library]] ⚑
+0. [[Python Library|4.1.-Python-Library]]
