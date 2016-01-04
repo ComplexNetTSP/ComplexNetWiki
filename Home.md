@@ -30,5 +30,3 @@
     0. [[General Tips|3.3.1.-General-Tips]]
     0. [[Data Mining|3.3.2.-Data-Mining]]
     0. [[Python Library|3.3.3.-Python-Library]]
-
-### [[☰|4.-Python.md]] 4. Python.md
