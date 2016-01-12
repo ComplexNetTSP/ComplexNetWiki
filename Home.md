@@ -20,6 +20,7 @@
 0. [[Datasets|2.2.-Datasets]]
     0. [[Kaggle|2.2.1-Kaggle]]
     0. [[Networks datasets|2.2.2-Networks-datasets]]
+    0. [[PowerGrid datasets|2.2.3-PowerGrid-datasets]]
 
 ### [[☰|3.-Computing.md]] 3. Computing.md
 0. [[General Tips|3.1.-General-Tips]]
