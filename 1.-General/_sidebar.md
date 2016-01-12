@@ -5,5 +5,3 @@
 0. [[Plotting|1.2.-Plotting]]
 0. [[Maths Reminder And Notes|1.3.-Maths-Reminder-And-Notes]]
 0. [[Book Library|1.4.-Book-Library]]
-0. [[Links|1.5.-Links]]
-0. [[Misc|1.6.-Misc]]
