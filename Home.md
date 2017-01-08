@@ -17,7 +17,7 @@
         0. [[Snap|2.1.3.3.-Snap]]
     0. [[Graphs Visualisation|2.1.4.-Graphs-Visualisation]]
 0. [[Datasets|2.2.-Datasets]]
-    0. [[General Datasets|2.2.1-General-Datasets]] ⚑
+    0. [[General Datasets|2.2.1-General-Datasets]]
     0. [[Nature Scientific Data|2.2.2-Nature-Scientific-Data]]
     0. [[Networks datasets|2.2.3-Networks-datasets]]
     0. [[PowerGrid datasets|2.2.4-PowerGrid-datasets]]
