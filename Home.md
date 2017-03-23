@@ -21,7 +21,7 @@
     0. [[Nature Scientific Data|2.2.2-Nature-Scientific-Data]]
     0. [[Networks datasets|2.2.3-Networks-datasets]]
     0. [[PowerGrid datasets|2.2.4-PowerGrid-datasets]]
-    0. [[Renewable Energy datasets|2.2.5-RenewableEnergy-datasets]]
+    0. [[RenewableEnergy datasets|2.2.5-RenewableEnergy-datasets]]
 
 ### [[☰|3.-Computing.md]] 3. Computing.md
 0. [[General Tips|3.1.-General-Tips]]
