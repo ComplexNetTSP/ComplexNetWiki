@@ -4,7 +4,6 @@
 0. [[Plotting|1.2.-Plotting]]
 0. [[Maths Reminder And Notes|1.3.-Maths-Reminder-And-Notes]]
 0. [[Book Library|1.4.-Book-Library]]
-0. [[OpenStreetMap|1.5.-OpenStreetMap]]
 
 ### [[☰|2.-Complex-Networks.md]] 2. Complex-Networks.md
 0. [[Graphs|2.1.-Graphs]]
