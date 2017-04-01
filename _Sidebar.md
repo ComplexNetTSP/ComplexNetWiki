@@ -1,8 +1,8 @@
 **General**
-* [[Tips and Tools|General/Tips-And-Tools]]
-* [[Plotting|General/Plotting]]
-* [[Math Reminder|General/Maths-Reminder-And-Notes]]
-* [[Book Library|General/Book-Library]]
+* [[Tips and Tools|Tips-And-Tools]]
+* [[Plotting|Plotting]]
+* [[Math Reminder|Maths-Reminder-And-Notes]]
+* [[Book Library|Book-Library]]
 
 **Complex Network**
 
