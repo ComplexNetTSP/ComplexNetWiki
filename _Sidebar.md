@@ -8,7 +8,7 @@
 * Graphs
   * [[Graphs|Graphs general]]
   * [[Graphs Library]]
-  * [[Graphs Visualization]]
+  * [[Graphs Visualisation]]
 * Datasets
   * [[General Datasets]]
   * [[Nature Scientific Data Datasets|Nature Scientific Data]]
