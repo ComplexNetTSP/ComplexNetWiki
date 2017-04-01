@@ -1,7 +1,0 @@
-## Phone Data
-* [bandicoot: an open-source python toolbox to analyze mobile phone metadata](http://bandicoot.mit.edu/)
-
-## General computing 
-* [Python multiprocessing Documentation (PDF)](http://calcul.math.cnrs.fr/Documents/Ecoles/2010/cours_multiprocessing.pdf)
-* [Python Module of the Week - multiprocessing](http://pymotw.com/2/multiprocessing/)
-* [Hypothesis: a python tests made easy](https://hypothesis.readthedocs.org/en/latest/) [ [Slides] ] (http://slides.com/treycausey/pydata2015#/)
