@@ -1,4 +1,4 @@
-# Computing
+### Computing table of contents
 
 * [[General Tips]]
 * [[Python Tutorials]]
