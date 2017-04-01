@@ -1,1 +1,2 @@
-[[Home]] *|*  [[General]]  *|* [[Complex Network]] *|* Copyright &copy;2017 ComplexNet
+[[Home]] *|*  [[General]]  *|* 
+[[Complex Network]] *|* Copyright &copy;2017 ComplexNet
