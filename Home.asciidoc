@@ -15,8 +15,8 @@ Welcome to the Complex Network wiki! You can find topics in the sidebar on the r
 |link:ComplexNetwork[Complex Network]
 |link:Computing[Computing]
 
-|General 
+|General - Tools
 |Complex Networks - Computing tools
-|Scientific Computing - General
+|Scientific Computing
 
 |====
