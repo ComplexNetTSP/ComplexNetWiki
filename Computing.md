@@ -2,7 +2,7 @@
 
 * [[General Tips]]
 * [[Python Tutorials]]
-* Scientific Computing
+* Scientific Computing With Python
   * [[Data Mining]]
-  * [[Parallel Processing With Python]]
-  * [[Scientific Computing With Python]]
+  * [[Parallel Processing]]
+  * [[Scientific Computing]]
