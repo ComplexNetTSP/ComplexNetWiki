@@ -1,7 +1,7 @@
-# Complex Network Wiki
+## Complex Network Wiki
 
-## Table of contents
+### Table of contents
 
-### General
-### Complex Network
-### Computing
+#### General
+#### Complex Network
+#### Computing
