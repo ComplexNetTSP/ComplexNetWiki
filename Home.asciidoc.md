@@ -5,21 +5,18 @@ Welcome to the Complex Network wiki! You can find topics in the sidebar on the r
 
 [width="99%",options="header",]
 |====
-|Overview |Getting started |Downloads |Technical Documentation
+|General |Complex Network |Computing
 
-|image:{img}/assets/lightbulb-o_969696_64.png[link="About-Lettuce",align="center"]
-|image:{img}/assets/fighter-jet_969696_64.png[link="Getting-started",align="center"]
-|image:{img}/assets/cloud-download_969696_64.png[link="Download",align="center"]
-|image:{img}/assets/book_969696_64.png[link="Technical-Documentation",align="center"]
+|image:{img}/assets/book.png[link="Getting-started",align="center"]
+|image:{img}/assets/lightbulb.png[link="About-Lettuce",align="center"]
+|image:{img}/assets/bug.png[link="Download",align="center"]
 
 |link:About-Lettuce[About lettuce]
 |link:Getting-started[Getting-started]
 |link:Download[Download]
-|link:Technical-Documentation[Technical Documentation]
 
 |Introducing lettuce - why it's built and what it does
 |How to contribute
 |A step-by-step guide to use lettuce
-|Detailed technical documentation on lettuce
 
 |====
