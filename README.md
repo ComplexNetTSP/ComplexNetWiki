@@ -1,4 +1,0 @@
-ComplexNetWiki
-==============
-
-ComplexNet team wiki
