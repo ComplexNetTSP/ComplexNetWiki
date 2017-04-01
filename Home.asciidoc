@@ -12,8 +12,8 @@ Welcome to the Complex Network wiki! You can find topics in the sidebar on the r
 |image:{img}/assets/bug.png[link="Download",align="center"]
 
 |link:General[General]
-|link:Getting-started[Getting-started]
-|link:Download[Download]
+|link:ComplexNetwork[Complex Network]
+|link:Computing[Computing]
 
 |Introducing lettuce - why it's built and what it does
 |How to contribute
