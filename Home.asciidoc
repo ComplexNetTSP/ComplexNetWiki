@@ -11,7 +11,7 @@ Welcome to the Complex Network wiki! You can find topics in the sidebar on the r
 |image:{img}/assets/lightbulb.png[link="About-Lettuce",align="center"]
 |image:{img}/assets/bug.png[link="Download",align="center"]
 
-|link:About-Lettuce[About lettuce]
+|link:General[General]
 |link:Getting-started[Getting-started]
 |link:Download[Download]
 
