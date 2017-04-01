@@ -7,7 +7,7 @@
 **Complex Network**
 * Datasets
   * [[General Datasets]]
-  * [[Nature Scientific Data Datasets]]
+  * [[Nature Scientific Data Datasets|Nature Scientific Data]]
   * [[Networks Datasets]]
   * [[Power Grid Datasets]]
   * [[Renewable Energy Datasets]]
