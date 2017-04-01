@@ -8,11 +8,11 @@ Welcome to the Complex Network wiki! You can find topics in the sidebar on the r
 |General |Complex Network |Computing
 
 |image:wiki/assets/book.png[link="Getting-started",align="center"]
-|image:wiki/assets/lightbulb.png[link="About-Lettuce",align="center"]
-|image:wiki/assets/bug.png[link="Download",align="center"]
+|image:wiki/assets/lightbulb.png[link="Complex-Network",align="center"]
+|image:wiki/assets/bug.png[link="Computing",align="center"]
 
 |link:General[General]
-|link:ComplexNetwork[Complex Network]
+|link:Complex-Network[Complex Network]
 |link:Computing[Computing]
 
 |General - Tools
