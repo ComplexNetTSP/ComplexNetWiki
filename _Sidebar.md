@@ -9,7 +9,7 @@
   * [[General Datasets]]
   * [[Nature Scientific Data Datasets|Nature Scientific Data]]
   * [[Networks Datasets]]
-  * [[Power Grid Datasets]]
-  * [[Renewable Energy Datasets]]
+  * [[Power Grid Datasets|PowerGrid datasets]]
+  * [[Renewable Energy Datasets|RenewableEnergy Datasets]]
 
 **Computing**
