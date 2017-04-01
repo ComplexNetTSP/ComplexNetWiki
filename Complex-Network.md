@@ -14,4 +14,4 @@
   * [[Nature Scientific Data Datasets|Nature Scientific Data]]
   * [[Networks Datasets]]
   * [[Power Grid Datasets|PowerGrid datasets]]
-  * [[Renewable Energy Datasets|RenewableEnergy Datasets]]
+  * [[Renewable Energy Datasets|Renewable energy datasets]]
