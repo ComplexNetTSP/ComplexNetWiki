@@ -5,6 +5,10 @@
 * [[Book Library]]
 
 **Complex Network**
+* Graphs
+  * [[Graphs|Graphs general]]
+  * [[Graphs Library]]
+  * [[Graphs Visualization]]
 * Datasets
   * [[General Datasets]]
   * [[Nature Scientific Data Datasets|Nature Scientific Data]]
