@@ -36,6 +36,12 @@
 * [The Science of Six Degrees of Separation](https://www.youtube.com/watch?v=TcxZSmzPw8k&feature=youtu.be&ab_channel=Veritasium)
 * [Network Analysis in Python](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
 
+### Information diffusion 
+* [Tutorial
+Malicious Behavior on the Web: Characterization and Detection
+by Srijan Kumar, Justin Cheng, Jure Leskovec
+](http://snap.stanford.edu/www2017tutorial/)
+
 ### Vizualization of networks
 * [Drawing Graph with Gephi](http://www.martingrandjean.ch/gephi-introduction/)
 * [Network Analysis and Visualization with R and igraph
