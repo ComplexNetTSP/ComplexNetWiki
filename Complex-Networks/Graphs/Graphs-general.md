@@ -42,6 +42,10 @@ Malicious Behavior on the Web: Characterization and Detection
 by Srijan Kumar, Justin Cheng, Jure Leskovec
 ](http://snap.stanford.edu/www2017tutorial/)
 
+### Temporal network and network with memories
+* [Ingo Scholtes Research Insight on Temporal ](http://www.ingoscholtes.net/research/insights)
+* [Ingo Scholtes: Temporal Network Tutorial (Python)](http://www.ingoscholtes.net/research/insights/Temporal_Networks.html)
+
 ### Vizualization of networks
 * [Drawing Graph with Gephi](http://www.martingrandjean.ch/gephi-introduction/)
 * [Network Analysis and Visualization with R and igraph
