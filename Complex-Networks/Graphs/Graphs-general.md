@@ -38,6 +38,7 @@
 
 ### Information diffusion and Graph
 * [Malicious Behavior on the Web: Characterization and Detection](http://snap.stanford.edu/www2017tutorial/)
+
 * [Next-generation Algorithms for Networks](http://i.stanford.edu/~jure/pub/talks2/netalgs-bignet-apr17.pdf)
 
 ### Temporal network and network with memories
