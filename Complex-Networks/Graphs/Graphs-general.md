@@ -37,10 +37,8 @@
 * [Network Analysis in Python](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
 
 ### Information diffusion and Graph
-* [Tutorial
-Malicious Behavior on the Web: Characterization and Detection](http://snap.stanford.edu/www2017tutorial/)
-* [Next-generation
-Algorithms for Networks](http://i.stanford.edu/~jure/pub/talks2/netalgs-bignet-apr17.pdf)
+* [Malicious Behavior on the Web: Characterization and Detection](http://snap.stanford.edu/www2017tutorial/)
+* [Next-generation Algorithms for Networks](http://i.stanford.edu/~jure/pub/talks2/netalgs-bignet-apr17.pdf)
 
 ### Temporal network and network with memories
 * [Ingo Scholtes Research Insight on Temporal ](http://www.ingoscholtes.net/research/insights)
