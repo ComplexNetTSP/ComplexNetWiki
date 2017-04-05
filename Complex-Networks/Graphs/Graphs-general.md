@@ -38,9 +38,7 @@
 
 ### Information diffusion and Graph
 * [Tutorial
-Malicious Behavior on the Web: Characterization and Detection
-by Srijan Kumar, Justin Cheng, Jure Leskovec
-](http://snap.stanford.edu/www2017tutorial/)
+Malicious Behavior on the Web: Characterization and Detection](http://snap.stanford.edu/www2017tutorial/)
 * [Next-generation
 Algorithms for Networks](http://i.stanford.edu/~jure/pub/talks2/netalgs-bignet-apr17.pdf)
 
