@@ -1,5 +1,5 @@
 ### Tools
-* [Graphalchemis](http://graphalchemist.github.io/Alchemy/#/)
+* [nxviz](https://github.com/ericmjl/nxviz)
 * [NodeBox](http://nodebox.net/)
 * [D3 Frameworks](http://d3js.org/) 
    * [Python lib for D3](https://github.com/mikedewar/d3py)
