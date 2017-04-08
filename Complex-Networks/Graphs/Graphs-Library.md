@@ -29,3 +29,9 @@
 
 ## Various 
 * [PageRank computation with GPU](http://devblogs.nvidia.com/parallelforall/gpu-accelerated-graph-analytics-python-numba/)
+
+
+## Missing algorithm to implement in GraphLibrary
+- Katz Algorithm
+- Onion Decomposition
+- Spectral Analysis
