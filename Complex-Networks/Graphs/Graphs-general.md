@@ -35,6 +35,7 @@
 * [Christos Faloutsos: How to find patterns in large graphs](https://www.youtube.com/watch?v=GBzoNgqF-gQ&feature=youtu.be&ab_channel=LinkedInTechTalks)
 * [The Science of Six Degrees of Separation](https://www.youtube.com/watch?v=TcxZSmzPw8k&feature=youtu.be&ab_channel=Veritasium)
 * [Network Analysis in Python](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
+* [Vincent Traag Tutorial on Social Network Analysis](https://github.com/vgauthier/4TU-CSS)
 
 ### Information diffusion and Graph
 * [Malicious Behavior on the Web: Characterization and Detection](http://snap.stanford.edu/www2017tutorial/)
