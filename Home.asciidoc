@@ -7,7 +7,7 @@ Welcome to the Complex Network wiki! You can find topics in the sidebar on the r
 |====
 |General |Complex Network |Computing
 
-|image:wiki/assets/book.png[link="Getting-started",align="center"]
+|image:wiki/assets/book.png[link="General",align="center"]
 |image:wiki/assets/lightbulb.png[link="Complex-Network",align="center"]
 |image:wiki/assets/bug.png[link="Computing",align="center"]
 
